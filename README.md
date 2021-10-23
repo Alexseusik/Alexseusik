@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexseusik
-- 👀 I’m interested in Web-developing and Data Science
-- 🌱 I’m currently learning Angular, React, Python, JavaScript and some additional libraries
+- 👀 I’m interested in Data Science and Data analytics
+- 🌱 I’m currently learning: Python, SQL, R and some additional libraries
 - 📫 How to reach me : alexgnibeda03@gmai.com
 <!---
 Alexseusik/Alexseusik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
