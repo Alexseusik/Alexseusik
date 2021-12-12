@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexseusik
-- 👀 I’m interested in Data Science and Data analytics
+- 👀 I’m interested in Data Science and Data analytics, also Web-development
 - 🌱 I’m currently learning: Python, SQL, R and some additional libraries
 - 📫 How to reach me : alexgnibeda03@gmai.com
 <!---
